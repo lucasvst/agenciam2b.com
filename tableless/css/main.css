@@ -1305,9 +1305,9 @@ h1.projTitle span {
 /*Footer*/
 
 .footer {
-    background:#343434;
+    background:#F5DF50;
     border-top: 1px solid #E5E5E5;
-    color: #f2f2f1;
+    color: #666666;
     font-size: 12px;
     margin-top: 60px;
     padding: 60px 0;
@@ -1326,7 +1326,11 @@ h1.projTitle span {
 }
 
 .right li a{
-    color:#f2f2f1;
+    color:#666666;
+}
+
+.right li a:hover{
+    color:#999999;
 }
 
 /*End footer*/
