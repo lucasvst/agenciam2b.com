@@ -98,6 +98,10 @@ header{
     position: relative;
 }
 
+.mainNav li a:hover {
+	color: #A72626;
+}
+
 
 
 
